@@ -6,6 +6,7 @@ import math
 """
 Hand Tracking Module 
 By: Murtaza Hassan
+<Modified by : Siddhesh Mahajan>
 """
 
 class handDetector:
